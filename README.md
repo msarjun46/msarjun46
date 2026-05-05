@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sarjun
 - 👀 I’m interested in world of Data
 - 🌱 I’m currently learning Data Analysis and Data Engineerinh
-- 💞️ I’m looking to collaborate on Sata Analytics / Engineering projects
+- 💞️ I’m looking to collaborate on Data Analytics / Engineering projects
 - 📫 reach me @ sarjunmd1204@gmail.com
